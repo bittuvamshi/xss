@@ -9,6 +9,8 @@ xss.sh is the automation of the following work
 7. cat XSS.txt | Gxss -p khXSS -o XSS_Ref.txt                           // Find reflected Parameters
 8. dalfox file XSS_Ref.txt -o Vulnerable_XSS.txt                        // Find XSS
 
+DEMO
+
 Usage:
 ./xss.sh
 
